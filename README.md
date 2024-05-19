@@ -40,3 +40,5 @@
 •	HTTP/2 offers significant improvements over HTTP/1.1 in terms of performance, efficiency, and features, making it the preferred choice for modern web applications. 
 
 •	However, adoption of HTTP/2 may depend on various factors such as server and client support, network conditions, and specific application requirements.
+
+
